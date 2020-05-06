@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49852" started-at="2020-05-06T01:04:46 IST" finished-at="2020-05-06T01:05:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49852" started-at="2020-05-06T01:04:46 IST" finished-at="2020-05-06T01:05:36 IST">
+      <class name="Sample.Day1">
+        <test-method status="PASS" signature="test4()[pri:-2, instance:Sample.Day1@50b494a6]" name="test4" duration-ms="31642" started-at="2020-05-06T01:04:46 IST" finished-at="2020-05-06T01:05:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test1()[pri:-1, instance:Sample.Day1@50b494a6]" name="test1" duration-ms="2863" started-at="2020-05-06T01:05:18 IST" finished-at="2020-05-06T01:05:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test0()[pri:0, instance:Sample.Day1@50b494a6]" name="test0" duration-ms="3185" started-at="2020-05-06T01:05:21 IST" finished-at="2020-05-06T01:05:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test0 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Sample.Day1@50b494a6]" name="test2" duration-ms="3586" started-at="2020-05-06T01:05:24 IST" finished-at="2020-05-06T01:05:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test()[pri:1, instance:Sample.Day1@50b494a6]" name="test" duration-ms="4359" started-at="2020-05-06T01:05:28 IST" finished-at="2020-05-06T01:05:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test3()[pri:2, instance:Sample.Day1@50b494a6]" name="test3" duration-ms="3907" started-at="2020-05-06T01:05:32 IST" finished-at="2020-05-06T01:05:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- Sample.Day1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
